@@ -109,7 +109,7 @@ homework.zip
 ```
 
 ### Deadline
-`03/26 THURS 22:00`  
+`03/26 THURS 22:00, Late submission deadline: 03/29 SUN 22:00`  
 (for future hw, will make the release date and due date be on Sunday, as what we do in the last semester.)
 
 ### Grading Criteria (For Reference)    
