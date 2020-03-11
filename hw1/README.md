@@ -96,7 +96,7 @@ for i in range(0, N):
 ### HW submission (PLZ be particularly aware!!)
 
 + Please upload a `zip` file (a compressed file) to CEIBA. Note that the filename extension should be `.zip`, and other format (e.g. `.rar` , `.tar` ...) is not allowed!!  
-> In this semester, please always upload the `zip` file even if there is only `must.py` to submit. (This would be helpful for me when downloading the hw. Thanks for the cooperation \~\~ :grin:)  
+	> In this semester, please always upload the `zip` file even if there is only `must.py` to submit. (This would be helpful for me when downloading the hw. Thanks for the cooperation \~\~ :grin:)  
 
 + In the zip file, there will be **a directory whose name is your student ID.** The directory should contain 1 python scripts. Please name the script of must part: `must.py`.  
 
@@ -110,6 +110,7 @@ homework.zip
 
 ### Deadline
 `03/26 THURS 22:00`  
+(for future hw, will make the release date and due date be on Sunday, as what we do in the last semester.)
 
 ### Grading Criteria (For Reference)    
 Must  
