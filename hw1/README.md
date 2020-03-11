@@ -1,6 +1,6 @@
 # VP10: Non-ideal Capacitor
 
-## [HW PDF](https://drive.google.com/file/d/1nKZOmtCD4nJeACdTGcAEUlqfQBtWzsH6/view?fbclid=IwAR0Go99iGNz__eGYvH6R24zMoOUbSS7OBixKNzaDRCWHZZNsf1FvoMTFp-E)  
+## [HW PDF](https://drive.google.com/file/d/1nKZOmtCD4nJeACdTGcAEUlqfQBtWzsH6/view)  
 > In this semester, there would be no video explanation, **only hw PDF is provided**. But the programming concepts won't exceed what are taught during last semester, and you will learn in class the physics knowledeg on which each Vpython HW is based.
 
 ## Contents  
