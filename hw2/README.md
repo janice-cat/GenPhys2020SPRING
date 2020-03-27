@@ -107,7 +107,7 @@ homework.zip
 ```
 
 ### Deadline
-`04/19 SUN 22:00`  
+`04/19 SUN 22:00; Late submission deadline: 04/22 WED 22:00`  
 
 ### Grading Criteria (For Reference)    
 Must  
